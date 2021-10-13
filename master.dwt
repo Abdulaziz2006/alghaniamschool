@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<img src="شعار%20الغنيم.jpg" alt="" height="150" width="150" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style2.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.auto-style2 {
+	font-size: medium;
+}
+.auto-style3 {
+	color: #3D6C87;
+	font-size: medium;
+}
+.auto-style4 {
+	font-size: 28pt;
+}
+.auto-style5 {
+	font-size: 22pt;
+}
+.auto-style6 {
+	color: #3D6C87;
+}
+.auto-style7 {
+	font-size: 15pt;
+	text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+		<span class="auto-style4"><strong><span class="auto-style6">مدرسة 
+		يعقوب يوسف الغنيم الثانوية - بنين</span></strong></span><h3 class="auto-style5">الإدارة العامة لمنطقة العاصمة التعليمية</h3>
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li class="auto-style2"><a href="default.html"><strong>الرئيسية</strong></a></li>
+			<li class="auto-style3"><a href="about/default.html"><strong>من نحن</strong></a></li>
+			<li class="auto-style2"><a href="news/default.html"><strong>نشرات</strong></a></li>
+			<li class="auto-style2"><a href="calendar/default.html"><strong>التقويم</strong></a></li>
+			<li class="auto-style2"><a href="photo_gallery/default.html">
+			<strong>معرض الصور</strong></a></li>
+			<li class="auto-style2"><a href="information_links/default.html">
+			<strong>روابط</strong></a></li>
+			<li class="auto-style2"><a href="contact/default.html"><strong>تواصل</strong></a></li>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Content -->
+	<div id="content">
+		<!-- #BeginEditable "content" -->
+		<h2 class="auto-style7">أهلًا وسهلًا بكم في موقع مدرسة يعقوب يوسف الغنيم</h2>
+		<!-- #EndEditable "content" --></div>
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<p><a href="default.html">الرئيسية</a> | <a href="about/default.html">من نحن</a> 
+		| <a href="news/default.html">نشرات</a> | <a href="calendar/default.html">
+		التقويم</a> | <a href="photo_gallery/default.html">معرض الصور</a> |
+		<a href="information_links/default.html">روابط</a> |
+		<a href="contact/default.html">تواصل</a></p>
+	</div>
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>
